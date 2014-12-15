@@ -1,7 +1,7 @@
 
 ![][1]
 ###Ruby Öğreniyorum:
-> Sıtkı Bağdat'ın Ruby Kitabında Bulunan Örneklerin çözümleri ve Ruby öğrenmek için kendi çalışmalarımın olduğu bir Depo...
+> Sıtkı Bağdat'ın Ruby kitabında bulunan örneklerin çözümleri ve Ruby öğrenmek için kendi çalışmalarımın olduğu bir depo...
 
 :octocat:    :octocat:    :octocat:    :octocat:    :octocat:    :octocat:    :octocat:
 
